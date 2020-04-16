@@ -28,11 +28,8 @@
     </div>
 
     <footer class="row">
-        <p class="col-md-9 col-sm-9 col-xs-12 copyright">&copy; <a href="http://usman.it" target="_blank">Muhammad
-                Usman</a> 2012 - <?php echo date('Y') ?></p>
+        <p class="col-md-9 col-sm-9 col-xs-12 copyright">&copy;All Rights Reserved.</p>
 
-        <p class="col-md-3 col-sm-3 col-xs-12 powered-by">Powered by: <a
-                href="http://usman.it/free-responsive-admin-template">Charisma</a></p>
     </footer>
 <?php } ?>
 
@@ -70,8 +67,8 @@
 <script src="js/jquery.uploadify-3.1.min.js"></script>
 <!-- history.js for cross-browser state change on ajax -->
 <script src="js/jquery.history.js"></script>
-<!-- application script for Charisma demo -->
-<script src="js/charisma.js"></script>
+<!-- application script for BackOffice -->
+<script src="js/app.js"></script>
 
 </body>
 </html>

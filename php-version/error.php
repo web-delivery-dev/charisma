@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <link href='http://fonts.googleapis.com/css?family=Creepster|Audiowide' rel='stylesheet' type='text/css'>
 
     <style>
         * {
@@ -20,7 +19,7 @@
         }
 
         .error-code {
-            font-family: 'Creepster', cursive, arial, helvetica, sans-serif;
+            font-family: Sarial, helvetica, sans-serif;
             font-size: 200px;
             color: white;
             color: rgba(255, 255, 255, 0.98);
@@ -32,7 +31,7 @@
         }
 
         .not-found {
-            font-family: 'Audiowide', cursive, arial, helvetica, sans-serif;
+            font-family: 'Audiowide', arial, helvetica, sans-serif;
             width: 45%;
             float: right;
             margin-top: 5%;

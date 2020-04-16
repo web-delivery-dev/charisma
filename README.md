@@ -8,7 +8,7 @@
 ## Features
 
 - 9 different themes.
-- Fully responsive, optimized UI for tablets and mobile phones, [see how it looks on different devices](http://www.responsinator.com/?url=usman.it%2Fthemes%2Fcharisma).
+- Fully responsive, optimized UI for tablets and mobile phones, [see how it looks on different devices](#a).
 - Based on Bootstrap.
 - Works on IE9+
 - Commented code.
@@ -43,7 +43,7 @@ Without these open source software Charisma woudn't have been possible:
  - [Uploadify](http://www.uploadify.com/)
 
 
-Please visit [http://usman.it/free-responsive-admin-template/](http://usman.it/free-responsive-admin-template/ "") for more information.
+Please visit [#](# "") for more information.
 
 
 ___
